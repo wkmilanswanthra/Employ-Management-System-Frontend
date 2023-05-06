@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Employ Management System
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple emplo management interface created as part of a much larger administrative syste. which can be used by the employees as well as the administrators
 
 ## Available Scripts
 
